@@ -13,10 +13,10 @@ Support: Yes, Normal, Touching Buildplate
 Support Interface: Yes, Interface Density: 100%  
 Build Plate Adhesion: Raft (to be safe)
 
-![Cura Case](images/UltiMaker-Cura_CASE.png)
+<img src="images/UltiMaker-Cura_CASE.png" width="500">
 
 ### Case Lid
 Support: Yes, tree  
 Build Plate Adhesion: None (Or Raft if you run into issues)
 
-![Cura Case Lid](images/UltiMaker-Cura_CASE_LID.png)
+<img src="images/UltiMaker-Cura_CASE_LID.png" width="500">
