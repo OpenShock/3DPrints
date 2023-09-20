@@ -15,12 +15,12 @@ Layer Height: 0.2mm but 0.3 should work has not been tested though.
 ### Bottom case
 Build Plate Adhesion: Brim if issues arrise.
 
-<img src="images/BottomCaseSuggestedOrientation.png" width="500">
+<img src="Images/BottomCaseSuggestedOrientation.png" width="500">
 
 ### Top lid
 Build Plate Adhesion: Brim if issues arrise.
 The second suggested orientation is if you want your beds texture on the top surface may be very tricky to print due to small text.
 ### Orientation1
-<img src="images/TopLidSuggestedOrientation1.png" width="500">
+<img src="Images/TopLidSuggestedOrientation1.png" width="500">
 ### Orientation2
-<img src="images/TopLidSuggestedOrientation2.png" width="500">
+<img src="Images/TopLidSuggestedOrientation2.png" width="500">
