@@ -22,5 +22,6 @@ Build Plate Adhesion: Brim if issues arrise.
 The second suggested orientation is if you want your beds texture on the top surface may be very tricky to print due to small text.
 ### Orientation1
 <img src="Images/TopLidSuggestedOrientation1.png" width="500">
+
 ### Orientation2
 <img src="Images/TopLidSuggestedOrientation2.png" width="500">
