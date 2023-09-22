@@ -1,4 +1,9 @@
 # Shocklink D1Mini Box
+
+> [!WARNING]  
+> Measurements are off, this currently does not fit, please wait until it has been fixed before printing this
+
+
 Made a new box from scratch based on `.ek.`'s box from the discord which should be easier to print.
 Notable changes includes
 -no support material required
