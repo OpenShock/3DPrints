@@ -1,4 +1,4 @@
-# Shocklink D1Mini Box
+# Lola's D1Mini Box
 
 > [!WARNING]  
 > Measurements are off, this currently does not fit, please wait until it has been fixed before printing this
