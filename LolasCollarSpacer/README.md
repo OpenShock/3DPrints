@@ -9,4 +9,4 @@ Nozzle: 0.4mm
 Layer Height: 0.2mm but 0.3 should work has not been tested though.
 
 ### Orientation
-<img src="Images/TopLidSuggestedOrientation1.png" width="500">
+<img src="Images/LolaSpacerSuggestedOrientation1.png" width="500">
