@@ -1,7 +1,7 @@
 # Lola's D1Mini Box
 
 > [!WARNING]  
-> Measurements are off, this currently does not fit, please wait until it has been fixed before printing this
+> Measurements might be off, latest revision has not been tested. Print at your own risk of wasted filament and disapointment.
 
 
 Made a new box from scratch based on `.ek.`'s box from the discord which should be easier to print.
