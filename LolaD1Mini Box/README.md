@@ -9,7 +9,8 @@ Notable changes includes
 -no support material required
 -almost no overhangs greater than 45 degrees
 -actual source cad file and step file 
--Current shocklink logo
+-Current open-shock logo
+-Lid that snaps into place
 -Chamfers on bottom instead of fillets to reduce print issues
 
 ## Suggested Print Settings
