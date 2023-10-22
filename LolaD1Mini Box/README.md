@@ -1,7 +1,7 @@
-# Lola's D1Mini Box
+# Shocklink D1Mini Box
 
 > [!WARNING]  
-> Measurements might be off, latest revision has not been tested. Print at your own risk of wasted filament and disapointment.
+> Measurements are off, this currently does not fit, please wait until it has been fixed before printing this
 
 
 Made a new box from scratch based on `.ek.`'s box from the discord which should be easier to print.
@@ -9,8 +9,7 @@ Notable changes includes
 -no support material required
 -almost no overhangs greater than 45 degrees
 -actual source cad file and step file 
--Current open-shock logo
--Lid that snaps into place
+-Current shocklink logo
 -Chamfers on bottom instead of fillets to reduce print issues
 
 ## Suggested Print Settings
